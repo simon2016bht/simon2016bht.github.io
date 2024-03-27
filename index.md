@@ -12,5 +12,5 @@ title: Overview
 [NLT application: Tag HSK words](https://github.com/simon2016bht/TagHskWords)
 
 # Articles 
-### NUK and NSYSU
+[NUK and NSYSU]({% link Article/NSYSU_NUK.md %})
 ### Machine learning material 
