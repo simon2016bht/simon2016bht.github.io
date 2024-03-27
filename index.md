@@ -13,4 +13,3 @@ title: Overview
 
 # Articles 
 [NUK and NSYSU]({% link Article/NSYSU_NUK.md %})
-### Machine learning material 
