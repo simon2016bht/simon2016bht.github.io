@@ -5,7 +5,7 @@ title: Overview
 [About]({% link about.md %})
 
 # Projects 
-[Visuailazation: tools & note](https://github.com/simon2016bht/VisualizationWisely/tree/main)
+[Visuailazation: tools & notes](https://github.com/simon2016bht/VisualizationWisely/tree/main)
 
 [Web scraping: news digest](https://github.com/simon2016bht/FetchNewsKeyword)
 
