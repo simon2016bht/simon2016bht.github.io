@@ -7,7 +7,7 @@ title: Overview
 
 2
 
-{{ site.url }}{% link _posts/2024-03-27-Bio.md %}
+{% link _posts/2024-03-27-Bio.md %}
 
 
 3
