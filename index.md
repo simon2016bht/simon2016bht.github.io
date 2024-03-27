@@ -7,7 +7,7 @@ title: Overview
 
 2
 
-[Welcome to Jekyll post](/_post/2024/03/27/Bio.html)
+[Welcome to Jekyll post](2024-03-27-Bio.html)
 
 {% link about.md %}
 
