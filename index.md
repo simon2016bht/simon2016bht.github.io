@@ -1,7 +1,7 @@
 ---
 title: Overview
 ---
-{{ site.baseurl }}{% link _posts/2024-03-27-Bio.md %}
+{{ site.baseurl }}
 
 # Projects 
 ### Visuailazation
