@@ -2,6 +2,8 @@
 title: Overview
 ---
 {{ site.baseurl }}
+{{ site.url }}
+
 
 # Projects 
 ### Visuailazation
