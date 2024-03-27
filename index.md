@@ -3,11 +3,12 @@ title: Overview
 ---
 1
 
-{{ site.baseurl }}
+
 
 2
 
-{{ site.url }}
+{{ site.url }}{% link _posts/2024-03-27-Bio.md %}
+
 
 3
 
