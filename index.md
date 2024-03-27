@@ -1,11 +1,14 @@
 ---
 title: Overview
 ---
-# [About me]({% link about.md %})
+# Curriculum vitae
+[About]({% link about.md %})
 
 # Projects 
 [Visuailazation: tools & note](https://github.com/simon2016bht/VisualizationWisely/tree/main)
+
 [Web scraping: news digest](https://github.com/simon2016bht/FetchNewsKeyword)
+
 [NLT application: Tag HSK words](https://github.com/simon2016bht/TagHskWords)
 
 # Articles 
