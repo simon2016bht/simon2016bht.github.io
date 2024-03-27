@@ -7,7 +7,7 @@ title: Overview
 
 2
 
-{% link _posts/2024-03-27-Bio.md %}
+{% post 2024-03-27-Bio %}
 
 
 3
