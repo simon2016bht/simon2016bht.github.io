@@ -1,7 +1,8 @@
 ---
 title: Overview
 ---
-# Curriculum vitae
+<!---# Curriculum vitae
+-->
 [About]({% link about.md %})
 
 # Projects 
