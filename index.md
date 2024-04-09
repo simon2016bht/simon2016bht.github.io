@@ -19,6 +19,8 @@ title: Overview
 {% link Article/NSYSU_NUK.md %}
 1
 <!---
+
 [Board Game for special days]({% link Article/bg_day.md %})
 comment
+
 -->
