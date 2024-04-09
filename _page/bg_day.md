@@ -1,6 +1,6 @@
 ---
 ---
-# Board Game for special days
+# Playing Board Game on Special Days
 
 *Date: April 9 2024*
 - **This list compiles accessible board games tailored to special occasions. Many of these games are readily available online. **
