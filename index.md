@@ -16,6 +16,8 @@ title: Overview
 
 [Analysis of merging NSYSU and NUK]({% link Article/NSYSU_NUK.md %})
 
+{% link Article/NSYSU_NUK.md %}
+
 <!---
 comment
 -->
