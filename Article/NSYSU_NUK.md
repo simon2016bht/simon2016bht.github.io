@@ -1,5 +1,9 @@
-# 欸！併校 - 中山大學與高雄大學
+# 欸！併校 - 中山大學與高雄大學 Advantage of merging NSYSU and NUK
+Date: May 7, 2019
 ![logo of schools]({% link assets/images/NN1.png %})
+
+*We discuss the advantages of merging two universities, NSYSU and NUK, in Kaohsiung, Taiwan, by analyzing data on the number of students, campus sizes, and financial indicators.*
+
 
 先說刻板印象，我認爲中山大學就是高雄市政府上個世代的寫照：負債多、保守、接不上新產業。
 
@@ -12,7 +16,6 @@
 ### 指標一：學生人數
 以下是臺灣幾個前面的國立綜合型大學學生人數
 ![number of students]({% link assets/images/NN2.png %})
-
 107年臺灣國立大學學生人數（節錄） [source: 大專校院概況統計]
 
 沒錯，雖小又很能做研究的綜合大學並不存在這個國家。中山的學生人數排名遠遠落後於臺灣各指標大學，（高雄大學就更不用說了）在中字輩的學校裏也是敬陪末座。不是說學校大就一定能打，但是每個好學校都大不應該只是巧合，高等教育的確存有規模優勢。
