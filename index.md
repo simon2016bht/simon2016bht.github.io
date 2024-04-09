@@ -18,7 +18,6 @@ title: Overview
 
 
 <!---
-comment{% link Article/BG.md %}
 -->
 <!---
 your comment goes here
