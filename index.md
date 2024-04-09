@@ -3,7 +3,7 @@ title: Overview
 ---
 <!---# Curriculum vitae
 -->
-[About]({% link about.md %})
+[About]({% link _page/about.md %})
 
 # Projects 
 [Visuailazation: tools & notes](https://github.com/simon2016bht/VisualizationWisely/tree/main)
@@ -16,8 +16,8 @@ title: Overview
 
 [Analysis of merging NSYSU and NUK]({% link _page/NSYSU_NUK.md %})
 
-{% link _page/BG.md %}
-{% link _page/bg_day.md %}
+[bgday]({% link _page/bg_day.md %})
+
 
 
 <!---
