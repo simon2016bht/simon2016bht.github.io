@@ -1,5 +1,6 @@
 # 欸！併校 - 中山大學與高雄大學 Analysis of merging NSYSU and NUK
 *Date: May 7, 2019
+
 We discuss the advantages of merging two universities, NSYSU and NUK, in Kaohsiung, Taiwan, by analyzing data on the number of students, campus sizes, and financial indicators.*
 ![logo of schools]({% link assets/images/NN1.png %})
 
