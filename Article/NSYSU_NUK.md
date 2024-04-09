@@ -1,3 +1,7 @@
+---
+layout: page
+title: Test Page
+---
 # 欸！併校 - 中山大學與高雄大學 Analysis of merging NSYSU and NUK
 *Date: May 7, 2019
 

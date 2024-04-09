@@ -1,3 +1,7 @@
+---
+layout: page
+title: Test Page2
+---
 # Board Game for special days
 
 *Date: April 9 2024*
