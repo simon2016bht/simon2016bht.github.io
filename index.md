@@ -18,8 +18,6 @@ title: Overview
 
 {% link Article/NSYSU_NUK.md %}
 
-{% link article/NSYSU_NUK.md %}
-
 <!---
 
 [Board Game for special days]({% link Article/bg_day.md %})
