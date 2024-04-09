@@ -10,5 +10,5 @@ show_downloads: false
 website: https://simon2016bht.github.io
 
 include: 
-  - _test
+  - _page
   - article
