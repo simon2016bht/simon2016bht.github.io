@@ -14,7 +14,7 @@ title: Overview
 # Articles 
 [Analysis of merging NSYSU and NUK]({% link article/NSYSU_NUK.md %})
 
-[Board Game for special days]({% link article/bg_day.md})
+[Board Game for special days]({% link article/bg_day.md %})
 
 
 <!---
