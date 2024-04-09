@@ -13,7 +13,6 @@ title: Overview
 
 <!---
 # Articles 
-[NUK and NSYSU]({% link Article/NSYSU_NUK.md %})
-your comment goes here
-and here
+[Analysis of merging NSYSU and NUK]({% link Article/NSYSU_NUK.md %})
+
 -->
