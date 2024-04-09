@@ -8,3 +8,7 @@ title: Personal blog of Simon
 show_downloads: false
 
 website: https://simon2016bht.github.io
+
+include: 
+  - _test
+  - article
