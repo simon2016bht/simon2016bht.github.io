@@ -1,1 +1,4 @@
-...
+- Science lover
+- Programmer
+- Lecturer
+- Board game newbie
