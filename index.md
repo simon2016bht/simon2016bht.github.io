@@ -18,7 +18,7 @@ title: Overview
 
 [Teaching Handout - Financial Management](https://github.com/simon2016bht/TeachingHandoutFinancialManagement_ICF304)
 
-[Summary and statistics of tournament on Board Game Arena](https://simon2016bht.github.io/wpoc/)
+[Summary and statistics of WPOC tournament on Board Game Arena](https://simon2016bht.github.io/wpoc/)
 
 # Articles 
 

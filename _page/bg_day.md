@@ -1,9 +1,9 @@
 ---
 ---
 # Playing Board Game on Special Days
-
 *Date: April 9 2024*
-- **This list compiles accessible board games tailored to special occasions. Many of these games are readily available online. **
+
+**This list compiles accessible board games tailored to special occasions. Many of these games are readily available online.**
 
 New Year / Jan 1 / Koi-Koi
 
