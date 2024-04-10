@@ -12,7 +12,7 @@ title: Overview
 
 [NLP application: Tag HSK words](https://github.com/simon2016bht/TagHskWords)
 
-[(tweaking) Chinese Character Worksheet Generator](https://github.com/simon2016bht/ChineseCharacterWorksheetGenerator)
+[(tweaking) Chinese Character Writing Worksheet Generator](https://github.com/simon2016bht/ChineseCharacterWorksheetGenerator)
 
 [Teaching Handout - Principles of Finance](https://github.com/simon2016bht/TeachingHandoutPrinciplesOfFinance_ICB100)
 
