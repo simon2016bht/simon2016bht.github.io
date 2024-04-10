@@ -5,11 +5,10 @@
 
 **This list compiles accessible board games tailored to special occasions. Most of these games are available to play online.**
 
-New Year / Jan 1 / Koi-Koi
+- New Year / Jan 1 / Koi-Koi
 
-Australian Open / Jan 12, 2025 / Worldwide Tennis
-
-Lunar New Year / Jan 29 2025 / TiếnLên; Go-Stop; Dou dizhu
+- Australian Open / Jan 12, 2025 / Worldwide Tennis
+- Lunar New Year / Jan 29 2025 / TiếnLên; Go-Stop; Dou dizhu
 
 Lantern Festival / Feb 12 2025 / Break the Code
 
