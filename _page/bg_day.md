@@ -64,6 +64,7 @@ FIA Motorsport Games Special / Oct 13 2024 / Heat Pedal Metal
 World Fantasy Convention / Oct 17 2024 / Wizard
 
 International Archaeology Day / Oct 15 2024 / Stone Age; Carcassonne: Hunters and Gatherers; Sapiens
+
 Halloween / Oct 31 / King of Tokyo: Halloween 
 
 Japanese Culture Day / Nov 3 2024 / Tokaido; Sushi Go
