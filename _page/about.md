@@ -1,5 +1,6 @@
 I'm a
-- Science believer
-- Programmer
 - Lecturer
+- Traveller
+- Programmer
 - Board game newbie
+
