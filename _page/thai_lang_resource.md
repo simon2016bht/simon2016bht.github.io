@@ -28,7 +28,7 @@ Thai: An Essential Grammar / Smyth
 
 [公視新聞網](https://news.pts.org.tw/news/thai)
 
-[aakanee.com | South-East Asia Illustrations - Thai](www.aakanee.com)
+[~~aakanee.com - South-East Asia Illustrations~~](www.aakanee.com)
 
 [VOA Thai](https://www.voathai.com)
 
