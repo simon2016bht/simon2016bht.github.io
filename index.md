@@ -26,7 +26,7 @@ title: Overview
 
 [Playing board game on special days]({% link _page/bg_day.md %})
 
-
+[Thai language learning resource]({% link _page/thai_lang_resource.md %})
 
 <!---
 -->
