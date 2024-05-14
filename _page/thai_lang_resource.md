@@ -1,38 +1,30 @@
 ---
 ---
-* Thai language learning resource (beginner to intermediate level)
-
+# Thai language learning resource (beginner to intermediate level)
 *Date: May 12, 2019*
 
 First, be sure to check out the long list from womenlearnthai. I haven't check them all but found several of them very useful.
 
 The list below are some of the apps or material I studied or studying:
 
-** Thai alphabet
-https://www.youtube.com/watch?v=AQEux3Fo1Oc&list=PLUDURTt732fOuWHVzwNp-5TodhTPN1mEg
+## Reading
+[Learn Thai - Rapid Method (Thai alphabet)](https://www.youtube.com/@LearnThaiRapidMethod)
 
-** Reading
 Lonely Planet Thai Phrasebook & Dictionary
 
-Thai for Beginners
+Thai for Beginners / Benjawan Poomsan Becker
 
-Instant Thai
+Instant Thai /  Stuart Robson & Prateep Changchit
 
 基础泰语 / 世界图书出版公司
 
-7天學會基礎泰語(附1MP3+字母學習字卡)
-書名：7天學會基礎泰語(附1MP3+字母學習字卡)，語言：繁體中文，ISBN：9789865785420，頁數：280，出版社：我識，作者：梁震牧，出版日期：2014/11/05，類別：語言學習
-www.books.com.tw
+7天學會基礎泰語 / 梁震牧 / 我識
 
-Manii reader
-old Thai elementary school textbook
-www.seasite.niu.edu
+Manii reader (old Thai elementary school textbook)
 
-Listening material with transcript
+## Listening
 
-公視新聞網
-กกต.ไทยประกาศผลเลือกตั้งแล้ว พท.ได้ที่นั่งส.ส.มากที่สุด ประเทศไทยจัดการเลือกตั้งทั่วไปขึ้นเม
-news.pts.org.tw
+[公視新聞網](news.pts.org.tw)
 
 aakanee.com | South-East Asia Illustrations - Thai
 Spoken descriptions and supporting materials in Thai for a growing set of illustrations depicting life in South-East…
