@@ -3,7 +3,7 @@
 # Thai language learning resource (beginner to intermediate level)
 *Date: May 12, 2019*
 
-First, be sure to check out the long list from womenlearnthai. I haven't check them all but found several of them very useful.
+First, be sure to check out the long list from [ExpatDan](https://www.expatden.com/learn-thai/?fbclid=IwZXh0bgNhZW0CMTAAAR2q_LBu_4qY9byb7SjKE6pPNYTkhAETPiDgJqqcYgwAGeTx7iiCuZGVWdU_aem_AS1y9GPzOQ0mENTBdEM-8APB3g38S12zQpgZAY2gfFynIVJenbFNi9rQSgWqDN9qIiESSmhXQYt1leWvI4WWZD98). I haven't check them all but found several of them very useful.
 
 The list below are some of the apps or material I studied or studying:
 
@@ -22,57 +22,31 @@ Instant Thai /  Stuart Robson & Prateep Changchit
 
 Manii reader (old Thai elementary school textbook)
 
+Thai: An Essential Grammar / Smyth
+
 ## Listening
 
-[公視新聞網](news.pts.org.tw)
+[公視新聞網](https://news.pts.org.tw/news/thai)
 
-aakanee.com | South-East Asia Illustrations - Thai
-Spoken descriptions and supporting materials in Thai for a growing set of illustrations depicting life in South-East…
-www.aakanee.com
+[aakanee.com | South-East Asia Illustrations - Thai](www.aakanee.com)
 
-วีโอเอไทย ข่าวสดสายตรงจากอเมริกา
-ข่าวเกี่ยวกับประเทศไทย, สหรัฐฯ และรอบโลก, ข่าวบันเทิงจากฮอลลีวู้ด และเรียนภาษาอังกฤษสำนวนอเมริกัน.
-www.voathai.com
+[VOA Thai](https://www.voathai.com)
 
-ดึงดูดใจ Deungdutjai
-Thai Music Translations and Reviews
-deungdutjai.com
+[Deungdutjai](https://deungdutjai.com) (Thai Music Translations and Reviews)
 
-** Dictionary
-[web]
-
-thai-language.com — Dictionary
-Thai language resources, including an online dictionary, audio clips, message forum, lessons, and more.
-www.thai-language.com
-
-[web]
-
-Thai to English dictionary, translation and transliteration
-Free online Thai to English automatic translation, specially designed to help you learn and understand Thai.
-www.thai2english.com
-
-[Android app]
-
-Thai Dictionary — Apps on Google Play
-Dict Box — English to Thai & Thai to English dictionary & translator. No internet connection required. Fast, convenient…
-play.google.com
-
-[Android app (with fee)]
-
-Thai English Dictionary — Apps on Google Play
-Android 9 Pie Supported in v2.4.4] Whether you’re on a short trip to Thailand, working with Thais, or studying the Thai…
-play.google.com
-
-[chrome app]
-
-Mate Translate — traductor & diccionario
-Seleccionar texto y traducirlo con un acceso directo en 103 idiomas.
-chrome.google.com
-
-** Podcast
-Thaipod101
+Thaipod101 podcast
 
 The bangkok podcast
 
-** Grammar reference
-Thai: An Essential Grammar (by Smyth)
+
+## Dictionary
+### webpage
+[thai-language.com — Dictionary](https://www.thai-language.com)
+
+[Thai to English dictionary, translation and transliteration](https://www.thai2english.com/)
+
+### Android app
+
+[Thai Dictionary](https://play.google.com/store/apps/details?id=com.grandsons.dictboxxth&source=post_page-----3c489c74ba7a--------------------------------&pli=1)
+
+[Thai < > English Dictionary](https://play.google.com/store/apps/details?id=com.wordinthehand.thaidict&source=post_page-----3c489c74ba7a--------------------------------)(800THB)
